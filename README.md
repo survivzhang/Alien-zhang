@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @survivzhang
+- 👋 Hi, I’m @Alien-Zhang
 - 👀 I’m interested in moive and basketball
 - 🌱 I’m currently learning maths
 - 💞️ I’m looking to collaborate on C++
